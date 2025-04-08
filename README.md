@@ -8,7 +8,7 @@ An interactive and animated sorting algorithm visualizer built with **Next.js** 
 
 ## 🔗 Live Demo
 
-🚀 [Check it out on Vercel](https://sorting-visualizer-next-8q2wlpypl-divash-krishnams-projects.vercel.app/)  
+🚀 [Check it out on Vercel](https://sorting-visualizer-next-liart.vercel.app/)  
 
 
 ---
