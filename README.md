@@ -2,7 +2,7 @@
 
 An interactive and animated sorting algorithm visualizer built with **Next.js** and deployed on **Vercel**. This project brings sorting algorithms to life through sleek, real-time animations, making it easier to understand how they work under the hood.
 
-![Sorting Visualizer Screenshot](./Screenshot%202025-04-08%20232339.png)
+![Sorting Visualizer Screenshot](./Screenshot.png)
 
 ---
 
